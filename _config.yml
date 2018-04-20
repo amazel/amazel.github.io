@@ -1,1 +1,5 @@
+title: My blog
+description: My initial approach for a Blog
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-architect
